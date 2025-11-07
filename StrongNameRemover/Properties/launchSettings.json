@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StrongNameRemover": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Sourcecode\\Schleupen\\Whatever\\Schleupen\\bin\" \"C:\\Sourcecode\\Schleupen\\Whatever\\Schleupen\\bin\\snremoved\""
+    }
+  }
+}
